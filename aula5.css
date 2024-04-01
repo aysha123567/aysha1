@@ -1,0 +1,12 @@
+ body{
+    background:-o-linear-gradient(blue rgb(151,55,211),black rgb(0,0,0));
+    text-align:center;
+    font-familly: cursive;
+    text-shadow: 5px 5px 5px yellow;
+
+ }
+ #d1{
+    width: 100;
+    height: 75px;
+    background-color: blueviolet;
+ }
